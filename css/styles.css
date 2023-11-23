@@ -1,0 +1,47 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: black;
+   text-align: center;
+ }
+ .discover__header h1{
+      font-family: Verdana;
+      font-weight: normal;
+      font-size: 50px;
+      color: white;
+      padding: 20px 10px;   
+ }
+
+.cta, .small_iphone p a{
+     
+      color: aquamarine;
+      list-style-type: none;
+      padding: 20px 10px;
+} 
+ .discover__travel h2{
+   color: white;
+   font-family: Verdana;
+   font-weight: 300px;
+   font-size: 42px;
+
+ }
+ .discover__travel p{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    padding: 20px 10px;
+ }
+
+.android h2{
+      color: white;
+}
+.android p{
+      padding: 10px;
+}
+
+footer p{
+      color: gray;
+      float: right;
+      margin: 10px;
+}
